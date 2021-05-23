@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 
 #import <objc/runtime.h>
-#import "MXPagerView.h"
+#import "Public/MXPagerViewType.h"
 
 @interface MXPagerViewDelegateForwarder : NSObject <UIScrollViewDelegate>
 @property (nonatomic, weak) MXPagerView *pagerView;

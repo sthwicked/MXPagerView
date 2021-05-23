@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import "MXPagerViewController.h"
+#import "Public/MXPagerViewController.h"
 
 @interface MXPagerViewController () <MXPageSegueSource>
 @property (nonatomic, strong) NSMutableDictionary<NSNumber *, UIViewController *> *pageViewControllers;

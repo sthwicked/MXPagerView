@@ -28,7 +28,7 @@ FOUNDATION_EXPORT double MXPagerViewVersionNumber;
 //! Project version string for MXPagerView.
 FOUNDATION_EXPORT const unsigned char MXPagerViewVersionString[];
 
-#import <MXPagerView/MXPagerView.h>
-#import <MXPagerView/MXPagerViewController.h>
+#import <MXPagerViewType.h>
+#import <MXPagerViewController.h>
 
 
